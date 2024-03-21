@@ -4,8 +4,8 @@
 
 Первый проект 
 
-## Start
+## Run
 
 ```bash
-make
+make run-dist
 ```
